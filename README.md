@@ -23,7 +23,7 @@
             
 <ul>
   <li>Lavine M. <a href = "http://people.math.umass.edu/~lavine/Book/book.pdf">                  Introduction to Statistical Thought</a></li>
-  <li>Sahoo P.  <a href = "http://www.math.louisville.edu/~pksaho01/teaching/Math662TB-09S.pdf"> Probability and Mathematical Statistics</a></li>
+  <li>Sahoo P.  <a href = "https://yiqiaoyin.files.wordpress.com/2019/01/probability-and-mathematical-statistics-sahoo.pdf"> Probability and Mathematical Statistics</a></li>
   <li>Geer S.   <a href = "https://stat.ethz.ch/~geer/mathstat.pdf">                             Mathematical Statistics</a></li>
   <li>Marden J. <a href = "http://stat.istics.net/MathStat/">Mathematical Statistics. Old School</a></li>
   <li>Taboga M. Lectures on Probability Theory and Mathematical Statistics (2nd edition)</li>
