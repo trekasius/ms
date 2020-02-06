@@ -34,3 +34,9 @@ All knowledge is, in final analysis, history.
   <li>Marden J. <a href = "http://stat.istics.net/MathStat/">Mathematical Statistics. Old School</a></li>
   <li>Taboga M. Lectures on Probability Theory and Mathematical Statistics (2nd edition)</li>
 </ul>
+
+### Populiari literatūra apie statistiką
+
+<ul>
+  <li>Salsburg D. The Lady Tasting Tea. How Statistics Revolutionized Science in the Twentieth Century</li>
+</ul>
