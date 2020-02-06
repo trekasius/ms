@@ -39,4 +39,5 @@ All knowledge is, in final analysis, history.
 
 <ul>
   <li>Salsburg D. The Lady Tasting Tea. How Statistics Revolutionized Science in the Twentieth Century</li>
+  <li>Lehmann E.L. Fisher, Neyman, and the Creation of Classical Statistics</li>
 </ul>
