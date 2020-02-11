@@ -1,0 +1,41 @@
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-02-03                                                                   #
+# ---------------------------------------------------------------------------- #
+
+Įvadas į statistika. Populiacija ir imtis. Reprezentatyvi imtis. Imties sudarymo 
+metodai: tikimybinės ir netikimybinės imtys. 
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-02-10                                                                   #
+# ---------------------------------------------------------------------------- #
+
+Duomenys ir kintamieji. Kintamųjų matavimo skalės. Kintamojo skalės keitimas.
+Kintamųjų klasifikacija: kokybiniai ir kiekybiniai kintamieji, kategoriniai 
+kintamieji. Sisteminė ir atsitiktinė matavimų paklaida ir jų mažinimas.
+
+Pagrindinis statistikos uždavinys -- stebimo požymio reikšmių pasiskirstymo
+populiacijoje atstatymas turint tik dalį informacijos (imtį). Šio uždavinio
+atskiri variantai, kai užtenka nustatyti stebimo požymio vidurkį, įvertinti
+patekimo į intervalą tikimybę ir pan.
+
+Imtis ir jos realizacija. Paprastoji atsitiktinė imtis (PAI) kaip 
+daugiamatis atsitiktinis dydis. Imties X pasiskirstymo dėsnis. Statistinio 
+modelio apibrėžimas. Statistinio modelio kaip populiacijos interpretacija. 
+Parametriniai, neparametriniai ir semiparametriniai modeliai, jų užrašymas. 
+Paprasčiausių parametrinių modelių pavyzdžiai. Identifikuojami ir 
+neįdentifikuojami statistiniai modeliai.
+
+Statistikos T apibėžimas. Statistika T = T(X) ir jos realizacija t = T(x).
+Paprasčiausių statistikų pavyzdžiai.
+
+Variacinės eilutės apibrėžimas. Variacinė eilutė ir jos realizacija. 
+Pozicinės statistikos apibrėžimas.
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-02-17                                                                   #
+# ---------------------------------------------------------------------------- #
+
