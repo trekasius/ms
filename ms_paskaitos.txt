@@ -5,7 +5,8 @@
 # ---------------------------------------------------------------------------- #
 
 Įvadas į statistika. Populiacija ir imtis. Reprezentatyvi imtis. Imties sudarymo 
-metodai: tikimybinės ir netikimybinės imtys. 
+metodai: tikimybinės ir netikimybinės imtys. Imties X = (X_1, X_2, ..., X_n) 
+realizacija x = (x_1, x_2, ..., x_n).
 
 
 # ---------------------------------------------------------------------------- #
@@ -38,4 +39,24 @@ Pozicinės statistikos apibrėžimas.
 # ---------------------------------------------------------------------------- #
 # 2020-02-17                                                                   #
 # ---------------------------------------------------------------------------- #
+
+Imties X = (X_1, X_2, ..., X_n) realizacijos x = (x_1, x_2, ..., x_n) elementų 
+x_1, x_2, ..., x_n interpretacija: tai diskretaus atsitiktinio dydžio reikšmės, 
+kurių įgijimo tikimybės vienodos ir lygios 1/n. Tokio atsitiktinio dydžio 
+tikimybių pasiskirstymo funkcijos sudarymas.
+
+Empirinės pasiskirstymo funkcijos apibrėžimas. Empirinės pasiskirstymo funkcijos
+realizacija. Empirinės pasiskirstymo funkcijos reikšmės taške x kaip indikatorių 
+1(X_i) aritmetinio vidurkio interpretacija. Indikatoriaus ir indikatorių sumos 
+pasiskirstymo dėsniai: Bin(1, p) ir Bin(n, p), kur p = F(x), čia F yra tikroji 
+populiacijoje stebimo ats. dydžio tikimybių pasiskirstymo funkcija.
+
+[*] Teorema apie empirinės pasiskirstymo funkcijos teorinį vidurkį, dispersiją 
+ir kovariaciją.
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-02-24                                                                   #
+# ---------------------------------------------------------------------------- #
+
 
