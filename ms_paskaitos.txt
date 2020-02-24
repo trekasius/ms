@@ -1,5 +1,4 @@
 
-
 # ---------------------------------------------------------------------------- #
 # 2020-02-03                                                                   #
 # ---------------------------------------------------------------------------- #
@@ -59,4 +58,51 @@ ir kovariaciją.
 # 2020-02-24                                                                   #
 # ---------------------------------------------------------------------------- #
 
+Priminimas iš tikimybių teorijos. Atsitiktinių dydžių sekos konvergavimas: 
+stochastinis konvergavimas (arba kitaip -- konvergavimas pagal tikimybę), 
+konvergavimas beveik tikrai (arba kitaip -- konvergavimas su tikimybe 1). Ryšys 
+tarp tikimybių teorijos ir matematinės statistikos -- didžiųjų skaičių dėsnis 
+(DSD) ir sustiprintas didžiųjų skaičių dėsnis. Centrinė ribinė teorema.
 
+[*] Glivenkos-Kantelio (Glivenko–Cantelli) teorema apie empirinės pasiskirstymo 
+funkcijos F.n(x) konvergavimą į tikrąją pasiskirstymo funkciją F(x).
+
+[*] Teorema apie empirinės pasiskirstymo funkcijos pasiskirstymą pagal normalųjį
+dėsnį.
+
+Kolmogorovo teorema. Statistika D_n = sup|F.n(x) - F(x)|. Smirnovo teorema. Šių
+teoremų taikymas hipotezių apie stebimo požymio reikšmių pasiskirstymo funkcijos 
+tikrinimą.
+
+PRATYBOS.
+Empirinės pasiskirstymo funkcijos sudarymas ir grafiko braižymas. Įvairių 
+tikimybių vertinimas naudojant empirinę pasiskirstymo funkciją. Empirinės ir
+teorinės pasiskirstymo funkcijų palyginimas modeliavimo būdu.
+
+R funkcijos: rnorm, ecdf, plot, curve, pnorm.
+
+n <- 20
+vid <- 10
+std <- 2
+
+x <- rnorm(n, vid, std)
+F.n <- ecdf(x)
+
+plot(F.n)
+curve(pnorm(x, vid, std), col = "red")
+
+
+# Pasiskirstymo funkcijos reikšmė, empirinė ir teorinė.
+
+F.n(5)
+pnorm(5, vid, std)
+
+# Tikimybė patekti į intervalą (5; 12], empirinė ir teorinė.
+
+F.n(12) - F.n(5)
+pnorm(12, vid, std) - pnorm(5, vid, std)
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-03-02                                                                   #
+# ---------------------------------------------------------------------------- #
