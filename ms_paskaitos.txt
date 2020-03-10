@@ -106,3 +106,35 @@ pnorm(12, vid, std) - pnorm(5, vid, std)
 # ---------------------------------------------------------------------------- #
 # 2020-03-02                                                                   #
 # ---------------------------------------------------------------------------- #
+
+--
+
+# ---------------------------------------------------------------------------- #
+# 2020-03-09                                                                   #
+# ---------------------------------------------------------------------------- #
+
+Variacinė eilutė, pozicinės statistikos apibrėžimas. Teorinių ir empirinių 
+kvantilių apibrėžimai. Empirinio p-lygio kvantilio vertinimo iš imties formulė.
+
+k-osios pozicinės statistikos pasiskirstymo funkcijos ir tankio funkcijos 
+išvedimas. Tolygaus intervale X ~ U(0, 1) ats. dydžio pozicinių statistikų
+pasiskirstymo dėsnio užrašymas.
+
+Priminimas iš tikimybių teorijos. Beta ir gama funkcijos, kai kurios jų savybės
+ir tarpusavio ryšys. Beta pasiskirstymo dėsnis, jo vidurkis ir dispersija.
+Tolygaus ats. dydžio pozicinių statistikų pasiskirstymo dėsnis yra beta dėsnis.
+
+[*] Teorema apie empirinio kvantilio konvergavimą į teorinį kvantilį, kai
+pasiskirstymo funkcija tolydi ir turi atvirkštinę.
+
+PRATYBOS.
+Tolygaus intervale [0, 1] ats. dydžio X k-osios pozicinės statistikos tankio 
+funkcijos užrašymas. Tolygaus intervale [0, theta] ats. dydžio X pozicinių 
+statistikų tankio funkcijos užrašymas, pozicinės statistikos teorinio vidurkio 
+nustatymas.
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-03-16                                                                   #
+# ---------------------------------------------------------------------------- #
+
