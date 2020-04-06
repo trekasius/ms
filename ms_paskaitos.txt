@@ -138,3 +138,51 @@ nustatymas.
 # 2020-03-16                                                                   #
 # ---------------------------------------------------------------------------- #
 
+SARS-CoV-2
+
+# ---------------------------------------------------------------------------- #
+# 2020-03-23                                                                   #
+# ---------------------------------------------------------------------------- #
+
+SARS-CoV-2
+
+# ---------------------------------------------------------------------------- #
+# 2020-03-30                                                                   #
+# ---------------------------------------------------------------------------- #
+
+Empiriniai momentai: empiriniai pradiniai ir centriniai momentai. Analogija su
+teoriniais momentais. Atskiri atvejai: k = 1 pirmos eilės pradinis momentas --
+empirinis vidurkis, k = 2 eilės centrinis momentas -- empirinė dispersija.
+Empirinis asimetrijos ir eksceso koeficientai ir jų prasmė.
+
+Pagrindinės empirinio vidurkio ir empirinės dispersijos savybės: empirinio 
+vidurkio teorinis vidurkis ir teorinė dispersija; empirinės dispersijos
+teorinis vidurkis ir empirinės dispersijos teorinė dispersija. Šių savybių
+įrodymas.
+
+# ---------------------------------------------------------------------------- #
+# 2020-04-06                                                                   #
+# ---------------------------------------------------------------------------- #
+
+Klausimas apie aukštesnės eilės empirinių momentų pasiskirstymo dėsnius.
+Bendros empirinių pradinių momentų vidurkio ir dispersijos formulės. Išvada
+apie tai, kad empirinių momentų vidurkis sutampa su atitinkamais teoriniais
+momentais.
+
+Teorema apie empirinių momentų ir funkcijų nuo empirinių momentų konvergavimą 
+į teorinius momentus ir funkcijas nuo teorinių momentų. Centrinių momentų
+išreiškimo per pradinius momentus formulė.
+
+Svarbūs statistikoje tikimybiniai pasiskirstymo dėsniai: normalusis, gama,
+chi-kvadrat, Stjudento ir Fišerio. Šių dėsnių tankių funkcijos ir pagrindinės
+skaitinės charakteristikos, kai kurios savybės.
+
+PRATYBOS.
+Nukirstas ir vinzorizuotas vidurkis. Jų skaičiavimo formulės.
+
+R funkcijos: mean(x, trim = ), dnorm, curve, abline
+
+
+# ---------------------------------------------------------------------------- #
+# 2020-04-09 (už 2020-03-02)                                                   #
+# ---------------------------------------------------------------------------- #
