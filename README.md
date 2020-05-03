@@ -21,7 +21,7 @@ All knowledge is, in final analysis, history.
   <li>Abramovich F.   Statistical Theory. A Concise Introduction</li>
   <li>Wasserman L.    All of Statistics. A Concise Course in Statistical Inference</li>
   <li>Hogg R.V.       Introduction to Mathematical Statistics</span> (8th edition)</li>
-  <li>Bagdonavičius V. <a href "https://www.vu.lt/leidyba/images/eknygos/Matematines_statistikos_uzdavinynas.pdf">Matematinės statistikos uždavinynas</a></li>  
+  <li>Bagdonavičius V. <a href="https://www.vu.lt/leidyba/images/eknygos/Matematines_statistikos_uzdavinynas.pdf">Matematinės statistikos uždavinynas</a></li>  
 </ul>
 
 
